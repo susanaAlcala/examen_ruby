@@ -62,7 +62,4 @@ while option != 4
         puts "Saliste del programa"
     else 
         puts "Opción no válida"
-        puts "Elige una opción entre 1 y 3, 4 para terminar"
-        option = gets.chomp.to_i
-    end
 end
