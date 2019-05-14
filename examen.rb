@@ -62,4 +62,5 @@ while option != 4
         puts "Saliste del programa"
     else 
         puts "Opción no válida"
+    end
 end
